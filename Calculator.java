@@ -71,5 +71,6 @@ public class CalculatorMain{
         }
 
         scanner.close();
+
     }
 }
